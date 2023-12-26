@@ -1,0 +1,31 @@
+
+h1 {
+  color: violet;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-style: italic;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #9b9b9b;
+}
+
+li {
+  float: left;
+  font-family: Arial, Helvetica, sans-serif
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #910094;
+}

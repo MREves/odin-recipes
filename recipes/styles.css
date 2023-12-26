@@ -1,0 +1,23 @@
+
+* {
+  background-color: rgb(243, 237, 237);
+}
+
+h1 {
+  color: violet;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-style: italic;
+}
+
+h2 {
+  color: violet;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-stretch: extra-expanded;
+  font-size: large;
+  font-style: italic;
+}
+
+p, li {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
